@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+}
+
+#content * {
+  text-align: center;
+}
