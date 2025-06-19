@@ -13,7 +13,7 @@ export function loadHomePage() {
   const homeLocation = document.createElement("h2");
   homeLocation.textContent = "Location:";
   const homeLocationParagraph = document.createElement("p");
-  homeLocationParagraph.textContent = "You got google maps find it yourself";
+  homeLocationParagraph.textContent = "Over there";
 
   contentSection.append(
     homeHeader,
